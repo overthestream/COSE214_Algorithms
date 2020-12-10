@@ -1,6 +1,6 @@
 # COSE214_Algorithms
 Korea University Dept. of Computer Science & Engineering 
-Algorithms | 2020 | COSE214-03 | major 
+| Algorithms | 2020 | COSE214-03 | major 
 Assignments 
   1. Solve Convex Hull by Brute Force
   2. Quick Hull (Solve Convex Hull by Divide & Conquer)
